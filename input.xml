@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN" "archivearticle3.dtd">
+<article
+	article-type="research-article"
+	dtd-version="3.0"
+	xml:lang="en"
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+<front>
+<journal-meta>
+<journal-title-group>
+<journal-title>Memoir 126&#x3a; Sequence Stratigraphy: Applications to Fine-Grained Rocks</journal-title>
+</journal-title-group>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">aapg-sp2160021</article-id>
+<article-id pub-id-type="doi">10.1306/137122973860</article-id>
+<article-id pub-id-type="other">aapg-sp.216.1.2160021</article-id>
+<title-group>
+<article-title>Chapter 2: Mudstone Nomenclature</article-title>
+</title-group>
+<contrib-group>
+<contrib id="aapg-sp2160021-a1" contrib-type="author">
+<name>
+<surname>Lazar</surname>
+<given-names>O. R.</given-names>
+</name>
+<email>ovidiu.remus.lazar@exxonmobil.com</email>
+<xref ref-type="aff" rid="aapg-sp2160021-aff1">1</xref>
+</contrib>
+<contrib id="aapg-sp2160021-a2" contrib-type="author">
+<name>
+<surname>Bohacs</surname>
+<given-names>K. M.</given-names>
+</name>
+<author-comment content-type="present-address">
+<p>Current address: Retired, now with KMBohacs GEOconsulting LLC, Houston, Texas</p>
+</author-comment>
+<email>bohacsk@gmail.com</email>
+<xref ref-type="aff" rid="aapg-sp2160021-aff1">1</xref>
+</contrib>
+<contrib id="aapg-sp2160021-a3" contrib-type="author">
+<name>
+<surname>Schieber</surname>
+<given-names>J.</given-names>
+</name>
+<email>jschiebe@indiana.edu</email>
+<xref ref-type="aff" rid="aapg-sp2160021-aff2">2</xref>
+</contrib>
+<contrib id="aapg-sp2160021-a4" contrib-type="author">
+<name>
+<surname>Macquaker</surname>
+<given-names>J. H. S.</given-names>
+</name>
+<email>james.h.macquaker@exxonmobil.com</email>
+<xref ref-type="aff" rid="aapg-sp2160021-aff3">3</xref>
+</contrib>
+<contrib id="aapg-sp2160021-a5" contrib-type="author">
+<name>
+<surname>Demko</surname>
+<given-names>T. M.</given-names>
+</name>
+<email>timothy.m.demko@exxonmobil.com</email>
+<xref ref-type="aff" rid="aapg-sp2160021-aff3">3</xref>
+</contrib>
+<aff id="aapg-sp2160021-aff1">
+<label>1</label>
+ExxonMobil, 22777 Springwoods Village Parkway, Spring, Texas 77389
+</aff>
+<aff id="aapg-sp2160021-aff2">
+<label>2</label>
+GY523, Department of Earth and Atmospheric Sciences, Indiana University, 1001 East 10th Street, Bloomington, Indiana 47405-1405
+</aff>
+<aff id="aapg-sp2160021-aff3">
+<label>3</label>
+ExxonMobil, 22777 Springwoods Village Parkway, Spring, Texas 77389
+</aff>
+</contrib-group>
+<pub-date pub-type="ppub">
+<year>2022</year>
+</pub-date>
+<volume>216</volume>
+<issue>1</issue>
+<fpage>21</fpage>
+<lpage>33</lpage>
+<permissions>
+<copyright-statement>&#x00A9; 2022 The American Association of Petroleum Geologists</copyright-statement>
+<copyright-year>2022</copyright-year>
+<copyright-holder>The American Association of Petroleum Geologists</copyright-holder>
+</permissions>
+<self-uri content-type="pdf" xlink:href="21.pdf" />
+<abstract>
+<p>This chapter introduces the key aspects of mudstone and the naming scheme we recommend and use when characterizing mudstone in outcrops, cores, and thin sections. This naming scheme is based on three key rock attributes: texture, bedding, and composition. This scheme has been designed to enable textural (grain size), bedding, compositional, and grain origin attributes to be captured and compared consistently for the entire spectrum of fine-grained sedimentary rocks and across a range of scales&#x2014;from hand specimen to scanning electron microscopy image. Texture, composition, bedding, and grain origin are important for the following reasons:</p>
+<p><list list-type="bullet">
+<list-item>
+<p>They reveal depositional conditions and environments (e.g., provenance, transport, reworking, and burial).</p>
+</list-item>
+<list-item>
+<p>They provide a tie to well-log and seismic data.</p>
+</list-item>
+<list-item>
+<p>They can be used in stratigraphic context to recognize long-term and large-scale depositional trends (i.e., vertical stratal stacking patterns and map views). These trends are then used to recognize large-scale stratigraphic packages and surfaces (e.g., parasequences, sequences, flooding surfaces, and sequence boundaries), whose stacking in a sequence-stratigraphic framework reveals the basin-fill history.</p>
+</list-item>
+<list-item>
+<p>They link rock properties of economic interest to key economic variables: total organic carbon, hydrogen index, porosity, permeability, seal capacity, and geomechanical attributes (e.g., Poisson&#x2019;s ratio, Young&#x2019;s modulus).</p>
+</list-item>
+</list></p>
+<p>This chapter presents the key aspects of texture, bedding, and composition; guidelines for describing these aspects; and applications and complications of this approach. Lazar et al. (<xref ref-type="bibr" rid="aapg-sp2160021-bib40">2022a</xref>, Chapter 3 this Memoir) provides an overview of the tools and practical workflows we use to facilitate consistent, repeatable, and efficient capture of mudstone texture, bedding, and composition in outcrops, cores, and thin sections.</p>
+</abstract>
+<counts>
+<fig-count count="2" />
+<table-count count="0" />
+<equation-count count="0" />
+<ref-count count="104" />
+</counts>
+<custom-meta-group>
+<custom-meta>
+<meta-name>cover-date</meta-name>
+<meta-value>2022</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<p>&#x00A0;</p>
+<disp-quote>
+<p><italic>Precision in our use of terms should contribute to clearness of thinking.</italic></p>
+</disp-quote>
+<p>&#x2014;<xref ref-type="bibr" rid="aapg-sp2160021-bib60">Raymond C. Moore, 1949</xref></p>
+<sec id="aapg-sp2160021-s1" sec-type="other">
+<title>Guidelines for the Nomenclature of Mudstone: Texture, Bedding, and Composition</title>
+<sec id="aapg-sp2160021-s1.1">
+<title>Introduction</title>
+<p>Most of the sedimentary record contains rocks dominated by grains smaller than 62.5 &#x03BC;m (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib64">Picard, 1971</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib100">Wedepohl, 1971</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib88">Stow, 1981</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib4">Blatt, 1982</xref>). Terms such as &#x201C;shale,&#x201D; &#x201C;mudrock,&#x201D; &#x201C;mudstone,&#x201D; &#x201C;claystone,&#x201D; &#x201C;siltstone,&#x201D; &#x201C;chert,&#x201D; &#x201C;porcelanite,&#x201D; or &#x201C;chalk&#x201D; have been used to describe these fine-grained sedimentary rocks (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib32">Ingram, 1953</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib85">Shepard, 1954</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib96">Tourtelot, 1960</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib25">Folk, 1965</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib26">1968</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib64">Picard, 1971</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib63">Pettijohn et al., 1973</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib6">Blatt et al., 1980</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib43">Lundegard and Samuels, 1980</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib67">Potter et al., 1980</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib66">2005</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib87">Spears, 1980</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib88">Stow, 1981</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib90">Stow and Piper, 1984</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib24">Flemming, 2000</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib45">Macquaker and Adams, 2003</xref>; in all, we are aware of more than 42 classification schemes that have been proposed). We recommend the use of &#x201C;mudstone,&#x201D; a &#x201C;stone&#x201D; term similar to other sedimentary rock descriptors such as sandstone and limestone, as the generic name for all fine-grained sedimentary rocks (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib45">Macquaker and Adams, 2003</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib66">Potter et al., 2005</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib37">Lazar et al., 2010</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib38">2015a</xref>).</p>
+<p>Typically, mudstone contains fine-grained material of different grain sizes and composition derived from terrigenous and biogenic input to the basin, primary biogenic production in the basin, and diagenesis. Fine-grained material is delivered to a basin by a variety of transport processes (e.g., bed load, suspension) and is subsequently modified by postdepositional processes (e.g., bioturbation, diagenesis). (It is particularly important to recognize the effects of diagenesis because it is so pervasive in mudstone.)</p>
+<p>The resulting beds exhibit characteristic textures, sedimentary structures, and compositions that can be linked to these processes (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib72">Schieber, 1999</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib73">2003</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib74">2011a</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib48">Macquaker et al., 2010a</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib49">b</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib52">2014</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib14">Bohacs et al., 2011</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib12">2014</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib92">Taylor and Macquaker, 2014</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib38">Lazar et al., 2015a</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib39">b</xref>). We argue that a nomenclature scheme of fine-grained sedimentary rocks needs to reflect these attributes and to be applicable across scales from hand specimens to thin sections to enable interpretations of these processes. The nomenclature scheme elaborated below enables the consistent capture and comparison of mudstone attributes. These attributes are linked to rock properties of economic interest, provide ties to well-log and seismic data, reveal depositional conditions, and highlight long-term and large-scale trends.</p>
+<p>With these aims in mind, we propose to name these rocks using a root term based on texture (grain size), which is then modified by terms describing bedding and composition (<xref ref-type="bibr" rid="aapg-sp2160021-bib37">Lazar et al., 2010</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib38">2015a</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib39">b</xref>). An introduction to these three key attributes of mudstone, texture, bedding, and composition is provided next.</p>
+</sec>
+<sec id="aapg-sp2160021-s1.2">
+<title>Texture (Grain Size)</title>
+<p>Textural analysis (grain size, shape, orientation of individual grains, and overall sorting) provides insights into (1) sediment provenance, (2) proximity to sediment supply points, (3) water column energy level, and (4) rock properties such as porosity and permeability. Grain size is a commonly used attribute in descriptions and classifications of fine-grained sedimentary rocks (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib94">Trefethen, 1950</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib32">Ingram, 1953</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib85">Shepard, 1954</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib96">Tourtelot, 1960</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib25">Folk, 1965</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib26">1968</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib64">Picard, 1971</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib63">Pettijohn et al., 1973</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib6">Blatt et al., 1980</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib43">Lundegard and Samuels, 1980</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib67">Potter et al., 1980</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib66">2005</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib87">Spears, 1980</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib88">Stow, 1981</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib24">Flemming, 2000</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib45">Macquaker and Adams, 2003</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib37">Lazar et al., 2010</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib38">2015a</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib39">b</xref>). Grains can be simple or composite (e.g., floccules, pellets, or intraclasts).</p>
+<sec id="aapg-sp2160021-s1.2.1">
+<title>Grain-Size Ranges</title>
+<p>Fine-grained rocks can be represented within the full range of clastic sedimentary rocks on a ternary diagram with 100 percent sand, coarse mud, and fine mud as the end members (<xref ref-type="fig" rid="aapg-sp2160021-fg1">Figure 1A</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib25">Folk, 1965</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib26">1968</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib64">Picard, 1971</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib45">Macquaker and Adams, 2003</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib89">Stow, 2012</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib37">Lazar et al., 2010</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib38">2015a</xref>). We define the following grain-size boundaries in this ternary space: fine mud (clay and very fine silt) is less than 8 &#x03BC;m; medium mud (fine and medium silt) ranges from 8 to 32 &#x03BC;m; coarse mud (coarse silt) ranges from 32 to 62.5 &#x03BC;m; and sand ranges from 62.5 to 2000 &#x03BC;m.</p>
+<fig id="aapg-sp2160021-fg1" position="float">
+<label>Figure 1</label>
+<caption>
+<p>Nomenclature guidelines for mudstone (after <xref ref-type="bibr" rid="aapg-sp2160021-bib38">Lazar et al., 2015a</xref>): (A) texture (grain size); (B) bedding; (C) composition (OMA = organo-mineralic aggregate); (D) organic matter; (E) degree of bioturbation; (F) abundance; and (G) taphonomy.</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="aapg-sp2160021-fg1.jpg" content-type="figure" position="anchor" />
+</fig>
+<p>These proposed grain-size boundaries (1) maximize continuity with the published classification schemes; (2) recognize the existence of a size-sortable silt fraction that reflects the role of different dispersal mechanisms (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib53">McCave et al., 1995</xref>); (3) incorporate recent insights from flume experiments on mud transport, deposition, and subsequent erosion that show a distinct change in transport behavior among these grain-size classes (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib83">Schieber et al., 2007</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib82">Schieber and Southard, 2009</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib79">Schieber and Yawar, 2009</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib74">Schieber, 2011a</xref>); (4) are relatively easy to determine at hand specimen to thin section scales (cm to &#x03BC;m); and (5) provide useful information for grain-size trends. In addition, the proposed grain-size range for the fine mud fraction recognizes that, in practice, it is difficult to distinguish the clay-size fraction (variously reported as 4, 2, or 1 &#x03BC;m) from the very fine silt grain fraction without resorting to special analytical methods (e.g., laser particle size analysis or differential settling).</p>
+<p>In this ternary space, a &#x201C;mudstone&#x201D; is a fine-grained sedimentary rock that has more than 50 vol. % of the grains of mud size (<xref ref-type="fig" rid="aapg-sp2160021-fg1">Figure 1A</xref>). Analogous to the approach used for sandstone grain size, a mudstone that contains less than 25% sand-size grains can be further differentiated by a size-range term such as &#x201C;coarse,&#x201D; &#x201C;medium,&#x201D; or &#x201C;fine&#x201D; (<xref ref-type="fig" rid="aapg-sp2160021-fg1">Figure 1A</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib37">Lazar et al., 2010</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib38">2015a</xref>). In this scheme, a &#x201C;coarse mudstone&#x201D; has more than two-thirds of the mud-size grains as coarse mud, a &#x201C;fine mudstone&#x201D; has more than two-thirds of the mud-size grains as fine mud, and a &#x201C;medium mudstone&#x201D; has not more than two-thirds of the mud-size grains as coarse mud or fine mud (<xref ref-type="fig" rid="aapg-sp2160021-fg1">Figure 1A</xref>). A mudstone that has between 25% and 50% sand-size grains can be further modified by the size-range term &#x201C;sandy&#x201D; (<xref ref-type="fig" rid="aapg-sp2160021-fg1">Figure 1A</xref>).</p>
+<p><xref ref-type="fig" rid="aapg-sp2160021-fg1">Figure 1A</xref> illustrates one way of displaying mudstone texture based on our descriptive approach (<xref ref-type="bibr" rid="aapg-sp2160021-bib40">Lazar et al., 2022a</xref>, Chapter 3 this Memoir). We recognize that ternary diagrams have limitations in depicting these rocks because they can contain as many as four grain size fractions. (One possible approach for display purposes would be to divide the medium mud fraction equally between the coarse and fine mud fractions). Despite these limitations, plotting mudstones in ternary space can reveal significant groupings and enable comparison of mudstones with different grain-size distributions (as illustrated throughout this book).</p>
+<p>Worth mentioning is the fact that the term &#x201C;mudstone&#x201D; has been widely used by carbonate geologists as a rock class name. In this latter usage, it describes a carbonate rock that mostly comprises mud (defined as any component &#x003C; 20 &#x03BC;m in size) and less than 10% grains larger than 20 &#x03BC;m of varying composition (<xref ref-type="bibr" rid="aapg-sp2160021-bib22">Dunham, 1962</xref>). We prefer to use the textural definition and grain-size boundaries we proposed here for mud instead of the narrower Dunham&#x2019;s usage.</p>
+<p>Ultimately, it is important that texture is described and recorded as unambiguously as possible so that, no matter what classification or display scheme is used, other geologists can understand what was observed.</p>
+</sec>
+<sec id="aapg-sp2160021-s1.2.2">
+<title>Simple versus Composite Grains</title>
+<p>Composite grains are common in mudstone and include floccules, pellets, organo-mineralic aggregates, and intraclasts (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib38">Lazar et al., 2015a</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib39">b</xref>). Recent research on the transport and deposition of mud (clay and silt) has revealed that most mud travels in suspended load and bed load as silt-size or larger size composite grains (floccules; e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib83">Schieber et al., 2007</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib78">Schieber and Southard, 2009</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib79">Schieber and Yawar, 2009</xref>). To complicate matters further, composite grains also form by erosion of consolidated mud or older lithified mudstone (to form intraclasts); through clumping during the formation of marine snow (organo-mineralic aggregates; e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib51">Macquaker et al., 2010c</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib81">Schieber et al., 2010a</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib65">Plint et al., 2012</xref>); or by ingestion and excretion by organisms. Observations of outcrop and modern sediment, together with flume experiments, have also shown, for instance, that erosion may generate millimeter-to-centimeter-scale intraclasts. Intraclasts form because biochemical processes rapidly stabilize mud shortly after deposition (within hours to days), which increases sediment cohesion and retards re-entrainment of the mud as individual component particles. For classification purposes, we recommend naming a rock based on its present-day grain-size distribution, but noting whether the original grain-size distribution was significantly different, as discussed in the sections that follow.</p>
+</sec>
+<sec id="aapg-sp2160021-s1.2.3">
+<title>Present-Day versus Original Grain Size</title>
+<p>It is critical not only to determine the present-day grain-size distribution but also to obtain insights on the original grain size and type (simple versus composite; <xref ref-type="bibr" rid="aapg-sp2160021-bib38">Lazar et al., 2015a</xref>). Such information is key to interpreting provenance and bottom energy levels and subsequent diagenetic transformations. Quantification and interpretation of original grain sizes in mudstone at the scales of core and outcrops can be challenging, however, because grains are typically modified after deposition by physical disruption, biological activity, and diagenetic processes.</p>
+<p>A present-day grain-size distribution reflects the overprint of physical, biological, and chemical alteration, which can obscure the original depositional grains. For example, compaction of grains with high water content modifies the original grain outlines. Bioturbation can both form and destroy sediment fabrics; for instance, in situ pelletization can occur, or grain outlines can be disrupted. Diagenesis can further modify particle-size distribution, particularly where sites of cement nucleation develop in association with breaks in sediment accumulation. Early diagenesis (particularly the precipitation of such cements as quartz, carbonate, kaolinite, and pyrite at nucleation sites that are either dispersed or localized within a bed) can lead to an apparent increase in grain size or generation of new material (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib47">Macquaker and Taylor, 1996</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib70">Schieber, 1996</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib80">Schieber et al., 2000</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib76">Schieber and Baird, 2001</xref>). Conversely, dissolution of certain grains (e.g., silicate minerals) can cause grain-size diminution (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib54">Milliken, 1992</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib70">Schieber, 1996</xref>).</p>
+<p>Many mud components (e.g., detrital clay minerals) are highly susceptible to diagenetic alteration because they are chemically unstable and have large surface areas. Upon burial they are subjected to pore-water composition and pressure&#x2013;temperature conditions that differ substantially from those under which they originally formed. Diagenetic processes, therefore, commonly overprint depositional mineralogy to various degrees (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib31">Hower et al., 1976</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib19">Curtis, 1977</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib1">Aplin and Macquaker, 2010</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib52">Macquaker et al., 2014</xref>). Where the resulting authigenic crystals are very small (&#x003C; 2 &#x03BC;m), it may be difficult to unequivocally differentiate them from hydrodynamically sorted grains. The presence of euhedral crystal terminations, cement zonation, and either cements infilling grain dissolution pores or intragranular porosity facilitates this distinction (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib58">Milliken and Day-Stirrat, 2013</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib92">Taylor and Macquaker, 2014</xref>). These considerations illustrate the difficulty of relating present-day grain size to depositional conditions, especially of the argillaceous grains. Even when overprinting is pervasive, more stable components (e.g., quartz grains) can still be recognized in hand specimens and thin sections, however, and estimates of grain sizes can be made to place a rock within particular fields of a ternary diagram.</p>
+</sec>
+<sec id="aapg-sp2160021-s1.2.4">
+<title>Applications and Complications</title>
+<p>We recognize that it might be challenging to quantify visually the proportions of the grain sizes when describing fine-grained sedimentary rocks in cores or outcrops. We provide a practical, proxy method, the &#x201C;scratch test,&#x201D; to determine the dominant grain size at hand specimen scale in Lazar et al. (<xref ref-type="bibr" rid="aapg-sp2160021-bib40">2022a</xref>, Chapter 3 this Memoir).</p>
+<p>As a word of caution, be aware that interpretations of depositional environments from grain-size populations alone are fundamentally flawed. Extensive work in the 1950s and 1960s conclusively demonstrated that the strongest control on grain-size distribution in a particular depositional environment was the grain-size distribution that was supplied to that depositional environment. This grain-size distribution is mostly controlled by provenance lithotype and weathering. As discussed in Lazar et al. (<xref ref-type="bibr" rid="aapg-sp2160021-bib41">2022b</xref>, Chapter 4 this Memoir) and Bohacs et al. (<xref ref-type="bibr" rid="aapg-sp2160021-bib13">2022</xref>, Chapter 5 this Memoir), the accumulation of fine-grained material is governed as much by the rate and character of the mud supply as it is by the energy levels of the depositional environment (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib23">Einstein and Krone, 1962</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib62">Owen and Odd, 1970</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib102">Wheatcroft and Borgeld, 2000</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib2">Bentley, 2003</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib3">Bentley and Nittrouer, 2003</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib103">Wheatcroft and Drake, 2003</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib95">Trincardi et al., 2004</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib83">Schieber et al., 2007</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib30">Hovikoski et al., 2008</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib48">Macquaker et al., 2010a</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib49">b</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib51">c</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib44">MacKay and Dalrymple, 2011</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib74">Schieber, 2011a</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib12">Bohacs et al., 2014</xref>). Thus, a voluminous accumulation of mudstone should not be directly attributed to a low-energy depositional setting. Confident interpretation of depositional conditions needs the incorporation of the other key attributes of mudstone: bedding and composition (as discussed next and in <xref ref-type="bibr" rid="aapg-sp2160021-bib13">Bohacs et al., 2022</xref>, Chapter 5 this Memoir).</p>
+</sec>
+</sec>
+<sec id="aapg-sp2160021-s1.3">
+<title>Bedding</title>
+<p>Bedding is a key characteristic of sedimentary rocks that records variations in (1) sediment erosion, transport, and accumulation; (2) benthic energy; and (3) the effects of sediment disruption by organisms. Bedding here includes laminae, laminasets, and beds (<xref ref-type="bibr" rid="aapg-sp2160021-bib16">Campbell, 1967</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib37">Lazar et al., 2010</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib38">2015a</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib39">b</xref>; see also <xref ref-type="bibr" rid="aapg-sp2160021-bib41">Lazar et al., 2022b</xref>, Chapter 4 this Memoir).</p>
+<p>Bedding is described by two sets of essential attributes: (1) the geometry and shape of bed bounding surfaces and (2) the continuity, shape, and geometry of laminae between the bounding surfaces (<xref ref-type="fig" rid="aapg-sp2160021-fg1">Figure 1B</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib16">Campbell, 1967</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib37">Lazar et al., 2010</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib38">2015a</xref>). (In this context, &#x201C;shape&#x201D; denotes the spatial configuration of a bedding element [lamina or surface], whereas &#x201C;geometry&#x201D; signifies the spatial arrangement of bedding elements with respect to the surrounding bedding elements, i.e., parallel or nonparallel.) These bedding attributes are commonly visualized in mudstone by close inspection of fresh surfaces of core or hand specimens and in digital scans of thin sections (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib47">Macquaker and Taylor, 1996</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib50">Macquaker et al., 1998</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib72">Schieber, 1999</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib35">K&#x00F6;nitzer et al., 2014</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib38">Lazar et al., 2015a</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib39">b</xref>).</p>
+<p>The main attributes of laminae, laminasets, and beds are reviewed briefly here and discussed in detail in Lazar et al. (<xref ref-type="bibr" rid="aapg-sp2160021-bib41">2022b</xref>, Chapter 4 this Memoir). A few examples of commonly occurring sedimentary structures are included in Lazar et al. (<xref ref-type="bibr" rid="aapg-sp2160021-bib41">2022b</xref>, Chapter 4 this Memoir). In the realm of sequence stratigraphy, beds are the building blocks of larger scale stratal units such as bedsets and parasequences. See Lazar et al. (<xref ref-type="bibr" rid="aapg-sp2160021-bib41">2022b</xref>, Chapter 4 this Memoir) and Bohacs et al. (<xref ref-type="bibr" rid="aapg-sp2160021-bib10">2022</xref>, Chapter 5 this Memoir) for further discussion and application of lamina geometry and bedding to the interpretation of depositional environments and construction of sequence-stratigraphic frameworks.</p>
+<sec id="aapg-sp2160021-s1.3.1">
+<title>Bedding Hierarchy</title>
+<p>According to the usage of <xref ref-type="bibr" rid="aapg-sp2160021-bib16">Campbell (1967)</xref>, a <italic>lamina</italic> is the smallest megascopic layer (commonly fractions of millimeters to millimeters in thickness) in a sedimentary succession without its own internal layering. It is bounded at the base and top by lamina surfaces formed by erosion or nondeposition. A lamina is relatively uniform in composition and texture. It has a smaller lateral extent than the enclosing bed (on the order of centimeters in current ripples to tens of meters in abyssal deposits).</p>
+<p>Lamina continuity, shape, and geometry are three key attributes for describing lamination (<xref ref-type="fig" rid="aapg-sp2160021-fg1">Figure 1B</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib16">Campbell, 1967</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib37">Lazar et al., 2010</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib38">2015a</xref>). Within their relatively small lateral extent, laminae can be <italic>continuous</italic> or <italic>discontinuous, planar, curved</italic> (single variation) or <italic>wavy</italic> (multiple variation), and <italic>parallel</italic> (laminae do not intersect) or <italic>nonparallel</italic> (laminae intersect). Description of these lamina attributes is essential to the identification of primary sedimentary structures such as planar, ripple, and trough cross-bedding and of secondary disruption by burrowing or reworking, which informs interpretation of paleoenvironments of deposition.</p>
+<p>Laminae are interpreted to form in a shorter span of time than the encompassing beds, typically in a few seconds to one or more years, in an &#x201C;instant of geological time&#x201D; (<xref ref-type="bibr" rid="aapg-sp2160021-bib16">Campbell, 1967</xref>, his table 1, p. 17). Laminae commonly form in response to small-scale fluctuations in the rates of the controlling processes within a single flow or depositional event (e.g., boundary layer bursts and sweeps under currents, wave oscillation currents, seasonal growth of planktonic or benthic organisms, deposition by dilute hemipelagic suspensions or wind).</p>
+<p>A <italic>laminaset</italic> is a genetic association of laminae that are bounded by laminaset surfaces (<xref ref-type="bibr" rid="aapg-sp2160021-bib16">Campbell, 1967</xref>). Typically, laminasets consist of a group of conformable laminae that exhibit similar geometry, texture, and composition within a bed. The thickness of laminasets ranges from millimeters to centimeters in mudstone. The lateral extent of laminasets is smaller than that of the enclosing bed and ranges from a few centimeters in current ripples to hundreds of meters in some turbidite beds. Current- and wave-ripple laminasets commonly occur in fine-grained sedimentary rocks (see Lazar et al., <xref ref-type="bibr" rid="aapg-sp2160021-bib41">2022b</xref>, Chapter 4 this Memoir). Other common types of laminasets are associated with wave-enhanced sediment gravity flow and turbidite beds (e.g., Bouma a, b, c, d, e; see Lazar et al., <xref ref-type="bibr" rid="aapg-sp2160021-bib41">2022b</xref>, Chapter 4 this Memoir). Laminasets are interpreted to form in a shorter amount of time than the enclosing beds.</p>
+<p>A <italic>bed</italic> is a relatively conformable succession of genetically related laminae or laminasets bounded at the base and top by bedding surfaces of erosion, nondeposition, or correlative conformity (<xref ref-type="bibr" rid="aapg-sp2160021-bib16">Campbell, 1967</xref>). Beds are typically thin in fine-grained sedimentary rocks, ranging from millimeters to tens of centimeters in thickness, but do not have a minimum or maximum absolute thickness as part of their definition (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib38">Lazar et al., 2015a</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib39">b</xref>). Beds can extend laterally on the order of meters to kilometers. Adjacent beds do not have to differ in lithofacies or composition and can comprise one or more lithotypes.</p>
+<p>This approach does not use absolute thickness as a defining criterion unlike some schemes that define beds as sedimentary layers thicker than 1 cm (e.g., summary in <xref ref-type="bibr" rid="aapg-sp2160021-bib8">Boggs, 2001</xref>). Our classification concentrates on defining genetically related strata because when the rocks were deposited, Mother Nature did not know how human beings would define an inch or centimeter. The choice of absolute values for classification is very much a function of the tool the user is applying: what is thinly bedded to a petrophysicist would be thickly bedded to a petrographer (well-log versus microscope scale). In contrast, genetically defined units are independent of measurement scale.</p>
+<p>Recognition of beds depends on the identification of the surfaces of separation between adjacent beds. Bed surfaces have no thickness, but they have lateral extents equivalent to the beds they bound. Bed surfaces can be planar, curved, or wavy, and they can be recognized by stratal terminations (the truncation of either laminae or laminasets below a surface or onlap or downlap above it), the presence of colonization above or subjacent burrowing, and changes in lithofacies.</p>
+<p>Not all beds, however, exhibit internal sedimentary features. This &#x201C;massive&#x201D; bedding can be a result of bed deposition without internal layering, liquefaction, or homogenization by burrowing organisms. Internal layering can also be hard to distinguish when the texture and composition of a bed vary within a very narrow range. A modifier such as &#x201C;homogeneous-looking&#x201D; can be applied to describe these beds (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib38">Lazar et al., 2015a</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib39">b</xref>).</p>
+<p>Beds are interpreted to record a single depositional episode or event of limited areal extent and to have formed in &#x201C;a few minutes&#x201D; to &#x201C;years&#x201D; or longer time spans, in &#x201C;many moments of geological time&#x201D; (<xref ref-type="bibr" rid="aapg-sp2160021-bib16">Campbell, 1967</xref>, his table 1, p. 17).</p>
+</sec>
+<sec id="aapg-sp2160021-s1.3.2">
+<title>Laminae versus Beds</title>
+<p>Differentiating laminae from very thin beds is important for discerning whether sediment accumulation was dominantly continuous or episodic. &#x201C;Parallel-laminated mudstone&#x201D; implies continuous sediment accumulation during a single depositional event, whereas &#x201C;parallel-bedded mudstone&#x201D; implies discontinuous sediment accumulation under repeated depositional events of similar character. Most textbooks consider lamination to be a primary characteristic of shale. Lamination is typically interpreted to indicate dominantly continuous sediment accumulation by suspension settling under relatively still and mostly anoxic bottom water depositional conditions (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib98">Tyson et al., 1979</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib20">Demaison and Moore, 1980</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib84">Schlanger et al., 1987</xref>). Field and core observations, combined with recent experimental data (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib83">Schieber et al., 2007</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib78">Schieber and Southard, 2009</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib74">Schieber, 2011a</xref>), demonstrate, however, that what has been described as &#x201C;laminated mudstone&#x201D; is not always a result of continuous deposition from suspension (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib9">Bohacs, 1990</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib46">Macquaker and Gawthorpe, 1993</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib69">Schieber, 1994</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib71">1998</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib72">1999</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib36">Lazar, 2007</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib11">Bohacs and Lazar, 2010</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib48">Macquaker et al., 2010a</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib49">b</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib82">Schieber et al., 2010b</xref>). Instead, it is commonly the product of discontinuous sediment accumulation by lateral transport in bed load or dense suspension, under intermittently energetic conditions, and, at most, intermittent anoxia. Under such circumstances, what have been described as laminae are, in fact, very thin beds. Beds of mudstone are typically 1&#x2013;4 mm thick and composed of genetically related laminae (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib38">Lazar et al., 2015a</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib39">b</xref>; see Lazar et al., <xref ref-type="bibr" rid="aapg-sp2160021-bib41">2022b</xref>, Chapter 4 this Memoir). Bed surfaces are identified by stratal terminations, presence of colonization horizons or subjacent burrowing, and changes in the lithofacies (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib16">Campbell, 1967</xref>). These attributes might result from changes in flow conditions and pauses in sediment accumulation that allow for biogenic colonization or sediment reworking by current or wave activity, or both.</p>
+</sec>
+</sec>
+<sec id="aapg-sp2160021-s1.4">
+<title>Composition</title>
+<p>The third key attribute of mudstone is composition. The composition of fine-grained sedimentary rocks is strongly controlled by the interaction of physical, chemical, and biological processes that operate during and after deposition. The materials that are delivered to the basin typically comprise the products of continental weathering and include clay minerals and a resistant fraction of fine-grained quartz, feldspars, and heavy minerals (e.g., rutile, zircon), as well as debris of higher plants (commonly as silt-to-sand-size grains). To these are added biogenic materials produced within the basin, including organic material (e.g., algal, bacterial, and archaeal) and the mineralized skeletal parts of calcareous, siliceous, and phosphatic organisms (as clay-to-sand&#x2013;size grains or larger particles; <xref ref-type="fig" rid="aapg-sp2160021-fg2">Figure 2</xref>). Once buried, this mix of fine-grained material undergoes chemical transformations (both mineral dissolution and authigenesis), consolidation, and compaction. Typical products of diagenesis include quartz, carbonate (e.g., calcite, dolomite, ankerite, and siderite), clay (e.g., illite, kaolinite, chlorite, and berthierene), and sulfide minerals (e.g., pyrite, marcasite). Volcanic ash may also be a significant component in mudstone successions. Because composition is strongly controlled by the various processes responsible for mud deposition and diagenesis, geologists have used compositional variability of grains with different origins to categorize fine-grained rocks (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib15">Bramlette, 1946</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib6">Blatt et al., 1980</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib33">Isaacs, 1981</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib88">Stow, 1981</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib104">Williams, 1982</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib86">Shipboard Scientific Party, 1984</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib45">Macquaker and Adams, 2003</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib37">Lazar et al., 2010</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib38">2015a</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib89">Stow, 2012</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib57">Milliken, 2014</xref>).</p>
+<fig id="aapg-sp2160021-fg2" position="float">
+<label>Figure 2</label>
+<caption>
+<p>Biogenic components of mudstone as a function of geological age. These components include calcareous, siliceous, phosphatic, and organic materials that are produced within the depositional basin. Also noted are typical size ranges of biogenic components (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib61">Moore et al., 1952</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib42">Loeblich and Tappan, 1964</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib28">Haq and Boersma, 1978</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib29">1998</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib18">Clarkson, 1979</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib7">Boardman et al., 1987</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib101">Wever et al., 2002</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib34">Jain, 2017</xref>; and references therein).</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="aapg-sp2160021-fg2.jpg" content-type="figure" position="anchor" />
+</fig>
+<sec id="aapg-sp2160021-s1.4.1">
+<title>Common Components</title>
+<p>The composition of mudstone can be represented on a ternary diagram with 100 percent of total quartz, total carbonate (e.g., calcite, dolomite), and total clay (e.g., illite, smectite) minerals as end members (<xref ref-type="fig" rid="aapg-sp2160021-fg1">Figure 1C</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib37">Lazar et al., 2010</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib38">2015a</xref>). Following our proposed nomenclature, the compositional name reflects which component is greater than 50% or the two most common components if no single component is more than 50% of the rock. For example, a rock composed of 60% carbonate minerals is a calcareous mudstone, whereas a rock composed of 45% carbonate minerals, 40% clay minerals, and 15% quartz is a calcareous-argillaceous mudstone (<xref ref-type="fig" rid="aapg-sp2160021-fg1">Figure 1C</xref>). The quartz&#x2013;carbonate&#x2013;clay ternary compositional diagram should be modified to reflect the cases when a mudstone is dominated by other components such as organic matter, phosphate, or feldspar, as detailed in the sections that follow (<xref ref-type="bibr" rid="aapg-sp2160021-bib38">Lazar et al., 2015a</xref>).</p>
+</sec>
+<sec id="aapg-sp2160021-s1.4.2">
+<title>Organic Carbon</title>
+<p>Total organic carbon (TOC) content is the fourth important component and ranges significantly&#x2014;from essentially 0 to approximately 50 wt. %. Worldwide, mudstone commonly has a TOC content of less than 1 wt. % (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib6">Blatt et al., 1980</xref>; ExxonMobil in-house analyses of hundreds of thousands of samples collected from Paleozoic to Cenozoic fine-grained rock successions). Based on these data, a mudstone with a TOC content between 2 and 25 wt. % is considered to be enriched beyond background values and here defined as &#x201C;carbonaceous&#x201D; (cbMs; <xref ref-type="fig" rid="aapg-sp2160021-fg1">Figure 1D</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib38">Lazar et al., 2015a</xref>). A mudstone with a TOC content between 25 and 50 wt. % is defined as &#x201C;kerogenous&#x201D; (keMs) if its composition is dominated by aquatic algae or &#x201C;coaly&#x201D; (coMs) if its composition is dominated by land plants (<xref ref-type="fig" rid="aapg-sp2160021-fg1">Figure 1D</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib38">Lazar et al., 2015a</xref>). We also propose &#x201C;muddy kerogenite&#x201D; (mKe) or &#x201C;muddy coal&#x201D; (mCo) as the terms for fine-grained rocks with a TOC content ranging from 50 to 75 wt. % (of algal or land&#x2013;plant origin, respectively). Rocks with a TOC content greater than 75 wt. % are termed &#x201C;kerogenite&#x201D; (Ke) or &#x201C;coal&#x201D; (Co) according to the origin of their organic-matter content (<xref ref-type="fig" rid="aapg-sp2160021-fg1">Figure 1D</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib38">Lazar et al., 2015a</xref>). These terms maintain continuity with commonly used classifications of source rocks (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib99">Waples, 1985</xref>). More detailed terms such as &#x201C;alginitic,&#x201D; &#x201C;peaty,&#x201D; or &#x201C;lignitic&#x201D; can be used when information on the type and thermal maturity of organic material is available (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib97">Tyson, 1995</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib93">Taylor et al., 1998</xref>).</p>
+</sec>
+<sec id="aapg-sp2160021-s1.4.3">
+<title>Other Components</title>
+<p>For mudstone with large <italic>phosphate</italic> content, we recommend the term &#x201C;phosphatic&#x201D; to refer to a mudstone that contains a 0.2%&#x2013;20% mixture of primary and secondary phosphate and &#x201C;phosphorite&#x201D; to refer to a fine-grained sedimentary rock that contains more than 20% phosphate (after <xref ref-type="bibr" rid="aapg-sp2160021-bib5">Blatt and Tracy, 1996</xref>).</p>
+<p>For <italic>feldspar</italic> content, by analogy with sandstone nomenclature, one can use the term &#x201C;arkosic&#x201D; to refer to a mudstone that contains more than 25% feldspars and the term &#x201C;subarkosic&#x201D; to refer to a mudstone that contains between 5% and 25% feldspars (<xref ref-type="bibr" rid="aapg-sp2160021-bib38">Lazar et al., 2015a</xref>).</p>
+</sec>
+<sec id="aapg-sp2160021-s1.4.4">
+<title>Applications and Complications</title>
+<p>We provide guidelines on making compositional observations and interpretations of cores and outcrops in Lazar et al. (<xref ref-type="bibr" rid="aapg-sp2160021-bib40">2022a</xref>, Chapter 3 this Memoir). The bulk composition determined by sample or well-log analyses is useful for understanding bulk-rock behavior and well-log response. For insights into paleo-depositional conditions and for prediction away from sample control, however, it is essential to determine the form and origin of each compositional component (e.g., detrital, biogenic, authigenic; <xref ref-type="fig" rid="aapg-sp2160021-fg1">Figure 1C</xref>). Examination of polished thin sections, using a scanning electron microscope equipped with combined energy-dispersive, cathodoluminescence, and backscattered electron detectors, is particularly useful in distinguishing the composition of individual grains and cement. This approach is illustrated in numerous studies (e.g., <xref ref-type="bibr" rid="aapg-sp2160021-bib46">Macquaker and Gawthorpe, 1993</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib55">Milliken, 1994</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib56">2013</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib50">Macquaker et al., 1998</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib72">Schieber, 1999</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib75">2011b</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib80">Schieber et al., 2000</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib76">Schieber and Baird, 2001</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib77">Schieber and Riciputi, 2004</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib59">Milliken et al., 2012</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib58">Milliken and Day-Stirrat, 2013</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib38">Lazar et al., 2015a</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib39">b</xref>).</p>
+<p>For instance, primary chalk and a secondary calcite concretion can have similar compositions but are obviously formed by different processes. To address this point, it is useful to specify the origin of the various grain types seen in a fine-grained rock as part of its name (<xref ref-type="fig" rid="aapg-sp2160021-fg1">Figure 1C</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib38">Lazar et al., 2015a</xref>). A chalk, for example, would be a coccolith- or foram-rich calcareous mudstone. In contrast, a calcite concretion is a calcite-cemented mudstone. Similarly, silica can be in the form of detrital quartz grains, tests of organisms (e.g., opaline diatom frustules), cements (e.g., micro-crystalline quartz located in the tests of organisms or in the matrix), or grain replacements. A fine-grained rock with 55% detrital quartz in the coarse mud fraction would be described as a detrital-siliceous coarse mudstone, whereas a fine-grained rock composed of 55% silica cement would be a cemented, siliceous mudstone. Clay minerals can also be present in either the detrital or diagenetic fraction. For instance, kaolinite can be a direct weathering product or an authigenic precipitate in pore spaces or fossil tests. When kaolinite contributes more than 50% to a fine-grained rock, the former should be described as a detrital-argillaceous mudstone, whereas the latter should be described as a cemented, argillaceous mudstone. Feldspars can also be detrital or diagenetic. A fine-grained rock with 26% detrital feldspar would be described as a detrital-arkosic mudstone, whereas a fine-grained rock composed of 12% feldspar that occurs as both detrital grains and overgrowths would be called a detrital and cemented, subarkosic mudstone.</p>
+<p>Composition varies at lamina- to-parasequence scale in mudstone successions. This variability reflects the composition of individual grain-size fractions and is produced by varying influx, sorting processes, and diagenetic overprints in different parts of the basin. This is illustrated, for example, in the Gothic Shale of the Middle Pennsylvanian Paradox Formation in the Paradox Basin of southeastern Utah, where the original TOC content ranges in the same bed from 1 to 4 wt. % over a distance of 3 km (<xref ref-type="bibr" rid="aapg-sp2160021-bib27">Guthrie and Bohacs, 2009</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib13">Bohacs and Guthrie, 2022</xref>, Chapter 8 this Memoir).</p>
+</sec>
+</sec>
+<sec id="aapg-sp2160021-s1.5">
+<title>Other Useful Attributes</title>
+<p>The degree of bioturbation can be assessed using a scale of 0&#x2013;5 (<xref ref-type="fig" rid="aapg-sp2160021-fg1">Figure 1E</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib37">Lazar et al., 2010</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib38">2015a</xref>; see also discussion in <xref ref-type="bibr" rid="aapg-sp2160021-bib68">Reineck, 1963</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib67">Potter et al., 1980</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib21">Droser and Bottjer, 1986</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib91">Taylor and Goldring, 1993</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib1">Aplin and Macquaker, 2010</xref>; <xref ref-type="bibr" rid="aapg-sp2160021-bib40">Lazar et al., 2022a</xref>, Chapter 3 this Memoir).</p>
+<p>Other attributes useful to record can include, for example, information on the type, size, abundance (<xref ref-type="fig" rid="aapg-sp2160021-fg1">Figure 1F</xref>), diversity, preservation state, and taphonomy of body fossils (<xref ref-type="fig" rid="aapg-sp2160021-fg1">Figure 1G</xref>); the type, diversity, and abundance of trace fossils; the type and distribution of diagenetic products; and fracturing, deformation, and color (<xref ref-type="bibr" rid="aapg-sp2160021-bib37">Lazar et al., 2010</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib38">2015a</xref>, <xref ref-type="bibr" rid="aapg-sp2160021-bib39">b</xref>).</p>
+</sec>
+</sec>
+<sec id="aapg-sp2160021-s2" sec-type="conclusions">
+<title>Conclusions</title>
+<p>To summarize our classification scheme, the name of a fine-grained sedimentary rock has three main parts: texture, bedding, and composition. The name of a mudstone can be further modified, especially with terms that provide insight into the detrital, biogenic, and diagenetic forms; provenance; and causes of its texture, bedding, and composition.</p>
+<p>For example, the calcareous component of a moderately bioturbated, discontinuous wavy-nonparallel-laminated, calcareous medium mudstone could be in the form of detrital limestone fragments, coccolith tests, in-place microbial laminae, or interparticle calcite cement, with the discontinuous bedding due to disruption by bioturbation. Thus, it is helpful to specify the nature of the calcareous components as well as the interpreted cause of the laminae geometry.</p>
+<p>After all observations are made, a mudstone may be described, for instance, as a &#x201C;gray, moderately bioturbated, discontinuous wavy-nonparallel-laminated, calcareous medium mudstone with abundant foraminifera and sparse pyrite nodules.&#x201D; The same rock can be also referred to using a shortened, readily usable phrase such as a &#x201C;bioturbated, calcareous medium mudstone.&#x201D; We recommend the use of such phrases only after the variability in the studied mudstone succession has been fully characterized.</p>
+<p>Mudstone descriptions that reflect the inherent variability of grain origin and size, as well as bedding and compositional attributes, have predictive value. Primary rock attributes can be described directly by integrating careful observations of outcrops and cores and be supplemented with information from thin sections. We use the guidelines that are recommended here to describe and capture mudstone variability and then make interpretations about processes and paleoenvironments. Lazar et al. (<xref ref-type="bibr" rid="aapg-sp2160021-bib40">2022a</xref>, Chapter 3 this Memoir) introduces a series of tools and techniques, as well as the integrated workflow that has proved most useful to us at millimeter to kilometer scales.</p>
+<disp-quote>
+<p><italic>&#x201C;When I use a word,&#x201D; Humpty Dumpty said, in rather a scornful tone, &#x201C;it means just what I choose it to mean&#x2014;neither more nor less.&#x201D;</italic></p>
+</disp-quote>
+<p>&#x2014;<xref ref-type="bibr" rid="aapg-sp2160021-bib17">Carroll, 1865</xref> Chapter 6, p. 73</p>
+</sec>
+</body>
+<back>
+<ack>
+<p>We thank ExxonMobil for support and permission to release this information. We thank Dr. Jennifer Eoff, Dr. Jon Kaufman, Dr. Keith Shanley, and Professor Paul Potter for their careful and helpful reviews. We are especially grateful to Professor Potter for his constant inspiration and sustained encouragement over many years.</p>
+</ack>
+<ref-list>
+<ref id="aapg-sp2160021-bib1">
+<mixed-citation>
+Aplin, A. C., and J. H. S. Macquaker, <year>2010</year>, Getting started in shales: AAPG Getting Started 20, 1198 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib2">
+<mixed-citation>
+Bentley, S. J., <year>2003</year>, Wave-current dispersal of fine-grained fluvial sediments across continental shelves: The significance of hyperpycnal plumes, <italic>in</italic> E. D. Scott, A. H. Bouma, and W. R. Bryant, eds., Siltstones, mudstones and shales: Depositional processes and characteristics: Tulsa, Oklahoma, SEPM, CD-ROM, p. <fpage>35</fpage>&#x2013;48.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib3">
+<mixed-citation publication-type="journal">
+Bentley, S. J., and C. A. Nittrouer, <year>2003</year>, Emplacement, modification and preservation of event stratigraphy on a flood-dominated continental shelf: <source>Eel shelf, northern California: Continental Shelf Research</source> v. <volume>23</volume>, p. <fpage>1465</fpage>&#x2013;1493.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib4">
+<mixed-citation>
+Blatt, H., <year>1982</year>, Sedimentary petrology: San Francisco, W. H. Freeman, 564 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib5">
+<mixed-citation>
+Blatt, H., and R. J. Tracy, <year>1996</year>, Petrology: Igneous, sedimentary, and metamorphic, 2nd ed.: New York, W. H. Freeman, 529 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib6">
+<mixed-citation>
+Blatt, H., G. Middleton, and R. Murray, <year>1980</year>, Origin of sedimentary rocks, 2nd ed.: Englewood Cliffs, New Jersey, Prentice-Hall, Inc., 782 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib7">
+<mixed-citation>
+Boardman, R. S., A. H. Cheetham, and A. J. Rowell, <year>1987</year>, Fossil invertebrates: Boston, Blackwell Scientific Publications, 713 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib8">
+<mixed-citation>
+Boggs, S. Jr., <year>2001</year>, Principles of sedimentology and stratigraphy 3rd ed.: Upper Saddle River, New Jersey, Prentice-Hall, 726 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib9">
+<mixed-citation>
+Bohacs, K. M., <year>1990</year>, Sequence stratigraphy of the Monterey Formation, Santa Barbara County: Integration of physical, chemical, and biofacies data from outcrop and subsurface, <italic>in</italic> M. M. Keller and M. K. McGowen, eds., Miocene and Oligocene petroleum reservoirs of the Santa Maria and Santa Barbara&#x2014;Ventura basins, California: SEPM Core Workshop 14, p. <fpage>139</fpage>&#x2013;201.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib10">
+<mixed-citation>
+Bohacs, K. M., and J. M. Guthrie, <year>2022</year>, Chimney Rock Shale Member, Paradox Formation, Utah: Paleozoic, shallow carbonate-dominated shelf-to-basin billion-barrel source rocks, <italic>in</italic> K. M. Bohacs and O. R. Lazar, eds., Sequence stratigraphy: Applications to fine-grained rocks: AAPG Memoir 126, p. <fpage>223</fpage>&#x2013;248.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib11">
+<mixed-citation>
+Bohacs, K. M., and O. R. Lazar, <year>2010</year>, Sequence stratigraphy in fine-grained rocks at the field to flow-unit scale: Insights for correlation, mapping, and genetic controls: Applied Geoscience Conference of US Gulf Region Mudstones as Unconventional Shale Gas/Oil Reservoirs, Houston Geological Society Annual Meeting, February 13&#x2013;14, 2010, Houston, Texas.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib12">
+<mixed-citation publication-type="journal">
+Bohacs, K. M., O. R. Lazar, and T. M. Demko, <year>2014</year>, Parasequence types in shelfal mudstone strata&#x2014;quantitative observations, lithofacies stacking patterns, and a conceptual link to modern depositional regimes: <source>Geology</source>, v. <volume>42</volume>, p. <fpage>131</fpage>&#x2013;134.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib13">
+<mixed-citation>
+Bohacs, K. M., O. R. Lazar, and T. M. Demko, <year>2022</year>, Parasequences, <italic>in</italic> K. M. Bohacs and O. R. Lazar, eds., Sequence stratigraphy: Applications to fine-grained rocks: AAPG Memoir 126, p. <fpage>107</fpage>&#x2013;148.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib14">
+<mixed-citation>
+Bohacs, K. M., J. D. Ottmann, O. R. Lazar, M. Dumitrescu, R. Klimentidis, J. Schieber, R. Montelli, C. Liu, and J. Shamrock, <year>2011</year>, Genetic controls on the occurrence, distribution, and character of reservoir-prone strata of the Eagle Ford Group and related rock: Houston Geological Society Applied Geoscience Mudrocks Conference, 7&#x2013;8 February, 2011, Houston, Texas, 37 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib15">
+<mixed-citation>
+Bramlette, M. N., <year>1946</year>, The Monterey Formation of California and the origin of its siliceous rocks: US Geological Survey Professional Paper 212, 57 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib16">
+<mixed-citation publication-type="journal">
+Campbell, C. V., <year>1967</year>, Lamina, laminaset, bed and bedset: <source>Sedimentology</source>, v. <volume>8</volume>, p. <fpage>7</fpage>&#x2013;26.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib17">
+<mixed-citation>
+Carroll, L., <year>1865</year>, Alice&#x2019;s Adventures in Wonderland: Mineola, New York, Dover Publications; Reprint edition (May 20, 1993), 86 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib18">
+<mixed-citation>
+Clarkson, E. N. K., <year>1979</year>, Invertebrate palaeontology and evolution, 3rd ed.: London, Chapman and Hall, 434 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib19">
+<mixed-citation publication-type="journal">
+Curtis, C. D., <year>1977</year>, Sedimentary geochemistry: Environments and processes dominated by involvement of an aqueous phase: <source>Royal Society (London), Philosophical Transactions A</source>, v. <volume>286</volume>, p. <fpage>353</fpage>&#x2013;372.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib20">
+<mixed-citation publication-type="journal">
+Demaison, G. J., and G. T. Moore, <year>1980</year>, Anoxic environments and oil source bed genesis: <source>AAPG Bulletin</source>, v. <volume>64</volume>, p. <fpage>1179</fpage>&#x2013;1209.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib21">
+<mixed-citation publication-type="journal">
+Droser, M. L., and D. J. Bottjer, <year>1986</year>, A semiquantitative field classification of ichnofabric: <source>Journal of Sedimentary Research</source>, v. <volume>56</volume>, p. <fpage>558</fpage>&#x2013;559.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib22">
+<mixed-citation>
+Dunham, R. J., <year>1962</year>, Classification of carbonate rocks according to depositional texture, <italic>in</italic> W. E. Ham, Classification of carbonate rocks&#x2014;A symposium: AAPG Memoir 1, p. <fpage>108</fpage>&#x2013;121.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib23">
+<mixed-citation publication-type="journal">
+Einstein, H. A., and R. B. Krone, <year>1962</year>, Experiments to determine modes of cohesive sediment transport in salt water: <source>Journal of Geophysical Research</source>, v. <volume>67</volume>, p. <fpage>1451</fpage>&#x2013;1461.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib24">
+<mixed-citation publication-type="journal">
+Flemming, B. W., <year>2000</year>, A revised textural classification of gravel-free muddy sediments on the basis of ternary diagrams: <source>Continental Shelf Research</source>, v. <volume>20</volume>, p. <fpage>1125</fpage>&#x2013;1137.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib25">
+<mixed-citation>
+Folk, R. L., <year>1965</year>, Petrology of sedimentary rocks, 1st ed.: Austin, Texas, Hemphill&#x2019;s Publishing Company, 159 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib26">
+<mixed-citation>
+Folk, R. L., <year>1968</year>, Petrology of sedimentary rocks, 2nd ed.: Austin, Texas, Hemphill&#x2019;s Publishing Company, 170 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib27">
+<mixed-citation>
+Guthrie, J. M., and K. M. Bohacs, <year>2009</year>, Spatial variability of source rocks: A critical element for defining the petroleum system of Pennsylvanian carbonate reservoirs of the Paradox Basin, SE Utah, <italic>in</italic> W. S. Houston, L. L. Wray, and P. G. Moreland, eds., The Paradox Basin revisited&#x2014;New developments in petroleum systems and basin analysis: Rocky Mountain Association of Geologists Special Publication RMAG 2008, p. <fpage>95</fpage>&#x2013;130.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib28">
+<mixed-citation>
+Haq, B. I., and A. Boersma, <year>1978</year>, Introduction to marine micropaleontology, 1st ed.: New York, Elsevier, 376 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib29">
+<mixed-citation>
+Haq, B. I., and A. Boersma, <year>1998</year>, Introduction to marine micro-paleontology, 2nd ed.: New York, Elsevier Science, 376 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib30">
+<mixed-citation publication-type="journal">
+Hovikoski, J., R. Lemiski, M. Gingras, G. Pemberton, and J. A. MacEachern, <year>2008</year>, Ichnology and sedimentology of a mud-dominated deltaic coast: Upper Cretaceous Alderson Member (Lea Park Fm), Western Canada: <source>Journal of Sedimentary Research</source>, v. <volume>78</volume>, p. <fpage>803</fpage>&#x2013;824.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib31">
+<mixed-citation publication-type="journal">
+Hower, J., E. V. Eslinger, M. E. Hower, and E. A. Perry, <year>1976</year>, Mechanism of burial metamorphism of argillaceous sediment: 1. Mineralogical and chemical evidence: <source>Geological Society of America Bulletin</source>, v. <volume>87</volume>, p. <fpage>725</fpage>&#x2013;737.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib32">
+<mixed-citation publication-type="journal">
+Ingram, R. L., <year>1953</year>, Fissility of mudrocks: <source>Geological Society of America Bulletin</source>, v. <volume>64</volume>, p. <fpage>869</fpage>&#x2013;878.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib33">
+<mixed-citation publication-type="journal">
+Isaacs, C. M., <year>1981</year>, Field characterization of rocks in the Monterey Formation along the coast west of Santa Barbara, <italic>in</italic> C. M. Isaacs, ed., Guide to the Monterey Formation in the California coastal area, Ventura to San Luis Obispo: <source>AAPG Pacific Section</source>, v. <volume>52</volume>, p. <fpage>39</fpage>&#x2013;54.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib34">
+<mixed-citation>
+Jain, S., <year>2017</year>, Fundamentals of Invertebrate Palaeontology: Macrofossils, 1st ed.: Berlin, Springer Geology, 405 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib35">
+<mixed-citation publication-type="journal">
+K&#x00F6;nitzer, S. F., S. J. Davies, M. H. Stephenson, and M. J. Leng, <year>2014</year>, Depositional controls on mudstone lithofacies in a basinal setting: Implications for the delivery of sedimentary organic matter: <source>Journal of Sedimentary Research</source>, v. <volume>84</volume>, p. <fpage>198</fpage>&#x2013;214.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib36">
+<mixed-citation>
+Lazar, O. R., <year>2007</year>, Redefinition of the New Albany Shale of the Illinois basin: An integrated, stratigraphic, sedimentologic, and geochemical study, Ph.D. dissertation, Indiana University, Bloomington, Indiana, 336 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib37">
+<mixed-citation>
+Lazar, O. R., K. M. Bohacs, J. H. S. Macquaker, and J. Schieber, <year>2010</year>, Fine-grained rocks in outcrops: Classification and description guidelines, <italic>in</italic> J. Schieber, O. R. Lazar, and K. M. Bohacs, eds., Sedimentology and stratigraphy of shales: Expressions and correlation of depositional sequences in the Devonian of Tennessee, Kentucky, and Indiana: AAPG Field Guide for SEPM Field Trip 10, p. <fpage>3</fpage>&#x2013;14.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib38">
+<mixed-citation publication-type="journal">
+Lazar, O. R., K. M. Bohacs, J. H. S. Macquaker, J. Schieber, and T. M. Demko, <year>2015a</year>, Capturing key attributes of fine-grained sedimentary rocks in outcrops, cores, and thin sections: Nomenclature and description guidelines: <source>Journal of Sedimentary Research</source>, v. <volume>85</volume>, p. <fpage>230</fpage>&#x2013;246.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib39">
+<mixed-citation>
+Lazar, O. R., K. M. Bohacs, J. Schieber, J. H. S. Macquaker, and T. M. Demko, <year>2015b</year>, Mudstone primer: Lithofacies variations, diagnostic criteria, and sedimentologic/stratigraphic implications at lamina to bedset scales: SEPM Concepts in Sedimentology and Paleontology 12, 200 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib40">
+<mixed-citation>
+Lazar, O. R., K. M. Bohacs, J. Schieber, J. H. S. Macquaker, and T. M. Demko, <year>2022a</year>, Tools and techniques for studying mudstones, <italic>in</italic> K. M. Bohacs and O. R. Lazar, eds., Sequence stratigraphy: Applications to fine-grained rocks: AAPG Memoir 126, p. <fpage>35</fpage>&#x2013;88.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib41">
+<mixed-citation>
+Lazar, O. R., K. M. Bohacs, J. Schieber, J. H. S. Macquaker, and T. M. Demko, <year>2022b</year>, Laminae, laminasets, beds, and bedsets, <italic>in</italic> K. M. Bohacs and O. R. Lazar, eds., Sequence stratigraphy: Applications to fine-grained rocks: AAPG Memoir 126, p. <fpage>89</fpage>&#x2013;106.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib42">
+<mixed-citation>
+Loeblich, Jr., A. R., and H. Tappan, <year>1964</year>, Foraminiferida, <italic>in</italic> R. C. Moore, ed., Protista 2: Geological Society of America Treatise on Invertebrate Paleontology C, p. <fpage>C55</fpage>&#x2013;C786.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib43">
+<mixed-citation publication-type="journal">
+Lundegard, P. D., and N. D. Samuels, <year>1980</year>, Field classification of fine-grained sedimentary rocks: <source>Journal of Sedimentary Petrology</source>, v. <volume>50</volume>, p. <fpage>781</fpage>&#x2013;786.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib44">
+<mixed-citation publication-type="journal">
+MacKay, D. A., and R. W. Dalrymple, <year>2011</year>, Dynamic mud deposition in a tidal environment: The record of fluid-mud deposition in the Cretaceous Bluesky Formation, Alberta, Canada: <source>Journal of Sedimentary Research</source>, v. <volume>81</volume>, p. <fpage>901</fpage>&#x2013;920.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib45">
+<mixed-citation publication-type="journal">
+Macquaker, J. H. S., and A. E. Adams, <year>2003</year>, Maximizing information from fine-grained sedimentary rocks: An inclusive nomenclature for mudstones: <source>Journal of Sedimentary Research</source>, v. <volume>73</volume>, p. <fpage>735</fpage>&#x2013;744.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib46">
+<mixed-citation publication-type="journal">
+Macquaker, J. H. S., and R. L. Gawthorpe, <year>1993</year>, Mudstone lithofacies in the Kimmeridge Clay Formation, Wessex Basin, Southern England: Implications for the origin and controls of the distribution of mudstones: <source>Journal of Sedimentary Petrology</source>, v. <volume>63</volume>, p. <fpage>1129</fpage>&#x2013;1143.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib47">
+<mixed-citation publication-type="journal">
+Macquaker, J. H. S., and K. G. Taylor, <year>1996</year>, A sequence-stratigraphic interpretation of a mudstone-dominated succession: The Lower Jurassic Cleveland Ironstone Formation, U.K.: <source>Geological Society of London Journal</source>, v. <volume>153</volume>, p. <fpage>759</fpage>&#x2013;770.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib48">
+<mixed-citation publication-type="journal">
+Macquaker, J. H. S., S. J. Bentley, and K. M. Bohacs, <year>2010a</year>, Wave-enhanced sediment-gravity flows and mud dispersal across continental shelves: Reappraising sediment transport processes operating in ancient mudstone successions: <source>Geology</source>, v. <volume>38</volume>, p. <fpage>947</fpage>&#x2013;950. doi:<ext-link ext-link-type="doi" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.1130/G31093.1">10.1130/G31093.1</ext-link>.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib49">
+<mixed-citation>
+Macquaker, J. H. S., S. Bentley, K. M. Bohacs, O. R. Lazar, and R. Jonk, <year>2010b</year>, Advective sediment transport on mud-dominated continental shelves: Processes and products: AAPG Search and Discovery article #50281, 22 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib50">
+<mixed-citation>
+Macquaker, J. H. S., R. L. Gawthorpe, K. G. Taylor, and M. J. Oates, <year>1998</year>, Heterogeneity, stacking patterns and sequence stratigraphic interpretation in distal mudstone successions: Examples from the Kimmeridge Clay Formation, U.K., <italic>in</italic> J. Schieber, W. Zimmerle, and P. Sethi, eds., Shales and mudstones, Volume I, Stuttgart, E. Schweizerbart&#x2019;sche Verlagsbuchhandlung (Nagele u. Obermiller), p. <fpage>163</fpage>&#x2013;186.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib51">
+<mixed-citation publication-type="journal">
+Macquaker, J. H. S., M. A. Keller, and S. J. Davies, <year>2010c</year>, Algal blooms and &#x201C;marine snow&#x201D;: Mechanisms that enhance preservation of organic carbon in ancient fine-grained sediments: <source>Journal of Sedimentary Research</source>, v. <volume>80</volume>, p. <fpage>934</fpage>&#x2013;942.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib52">
+<mixed-citation publication-type="journal">
+Macquaker, J. H. S., K. G. Taylor, M. A. Keller, and D. Polya, <year>2014</year>, Compositional controls on early diagenetic pathways in fine-grained sedimentary rocks: Implications for predicting unconventional reservoir attributes of mudstones: <source>AAPG Bulletin</source>, v. <volume>98</volume>, p. <fpage>587</fpage>&#x2013;603.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib53">
+<mixed-citation publication-type="journal">
+McCave, I. N., B. Manighetti, and S. G. Robinson, <year>1995</year>, Sortable silt and fine sediment size composition slicing parameters for paleocurrent speed and paleoceanography: <source>Paleoceanography</source>, v. <volume>10</volume>, p. <fpage>593</fpage>&#x2013;610.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib54">
+<mixed-citation publication-type="journal">
+Milliken, K. L., <year>1992</year>, Chemical behavior of detrital feldspars in mudrocks versus sandstones, Frio Formation (Oligocene), South Texas: <source>Journal of Sedimentary Petrology</source>, v. <volume>62</volume>, p. <fpage>790</fpage>&#x2013;801.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib55">
+<mixed-citation publication-type="journal">
+Milliken, K. L., <year>1994</year>, Cathodoluminescent textures and the origin of quartz silt in Oligocene mudrocks, south Texas: <source>Journal of Sedimentary Research</source>, v. <volume>A64</volume>, p. <fpage>567</fpage>&#x2013;571.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib56">
+<mixed-citation>
+Milliken, K. L., <year>2013</year>, SEM-based cathodoluminescence imaging for discriminating quartz types in mudrocks: Unconventional Resources Technology Conference 1582467, 10 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib57">
+<mixed-citation publication-type="journal">
+Milliken, K. L., <year>2014</year>, A compositional classification for grain assemblages in fine-grained sediments and sedimentary rocks: <source>Journal of Sedimentary Research</source>, v. <volume>84</volume>, p. <fpage>1185</fpage>&#x2013;1199.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib58">
+<mixed-citation>
+Milliken, K. L., and R. J. Day-Stirrat, <year>2013</year>, Cementation in mudrocks: Brief review with examples from cratonic basin mudrocks, <italic>in</italic> J. Chatellier and D. Jarvie, eds., Critical assessment of shale resource plays: AAPG Memoir 103, p. <fpage>133</fpage>&#x2013;a150.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib59">
+<mixed-citation publication-type="journal">
+Milliken, K. L., W. L. Esch, R. M. Reed, and T. Zhang, <year>2012</year>, Grain assemblages and strong diagenetic overprinting in siliceous mudrocks, Barnett Shale (Mississippian), Fort Worth Basin, Texas: <source>AAPG Bulletin</source>, v. <volume>96</volume>, p. <fpage>1553</fpage>&#x2013;1578.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib60">
+<mixed-citation>
+Moore, R. C., <year>1949</year>, Meaning of facies, <italic>in</italic> C. R. Longwell, ed., Sedimentary facies in geology: Geological Society of America Memoir 39, p. <fpage>1</fpage>&#x2013;34.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib61">
+<mixed-citation>
+Moore, R. C., C. G. Lalicker, and A. G. Fischer, <year>1952</year>, Invertebrate fossils: New York, McGraw-Hill, 766 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib62">
+<mixed-citation>
+Owen, M. W., and N. V. M. Odd, <year>1970</year>, A mathematical model of the effect of tidal barrier on siltation in an estuary: International Conference on Utilization of Tidal Power, Halifax, Canada, Department of Energy, Mines and Resources, 36 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib63">
+<mixed-citation>
+Pettijohn, F. E., P. E. Potter, and R. Siever, <year>1973</year>, Sand and sandstones: New York, Springer-Verlag, 618 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib64">
+<mixed-citation publication-type="journal">
+Picard, D. M., <year>1971</year>, Classification of fine-grained sedimentary rocks: <source>Journal of Sedimentary Petrology</source>, v. <volume>41</volume>, p. <fpage>179</fpage>&#x2013;195.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib65">
+<mixed-citation publication-type="journal">
+Plint, A. G., J. H. S. Macquaker, and B. L. Varban, <year>2012</year>, Bed-load transport of mud across a wide, storm-influenced ramp: Cenomanian-Turonian Kaskapau Formation, Western Canada Foreland Basin: <source>Journal of Sedimentary Research</source>, v. <volume>82</volume>, p. <fpage>801</fpage>&#x2013;822.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib66">
+<mixed-citation>
+Potter, P. E., J. B. Maynard, and P. J. Depetris, <year>2005</year>, Mud and mudstones: Introduction and overview: Berlin, Springer-Verlag, 297 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib67">
+<mixed-citation>
+Potter, P. E., J. B. Maynard, and W. A. Pryor, <year>1980</year>, Sedimentology of shale, Study guide and reference source: Berlin, Springer-Verlag, 303 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib68">
+<mixed-citation>
+Reineck, H.-E., <year>1963</year>, Sedimentgef&#x00FC;ge im Bereich der s&#x00FC;dlichen Nordsee: Senckenbergische Naturforschende Gesellschaft, Abhandlungen 505, p. <fpage>1</fpage>&#x2013;138.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib69">
+<mixed-citation publication-type="journal">
+Schieber, J., <year>1994</year>, Evidence for episodic high energy events and shallow water deposition in the Chattanooga Shale, Devonian, central Tennessee, U.S.A.: <source>Sedimentary Geology</source>, v. <volume>93</volume>, p. <fpage>193</fpage>&#x2013;208
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib70">
+<mixed-citation publication-type="journal">
+Schieber, J., <year>1996</year>, Early diagenetic silica deposition in algal cysts and spores: A source of sand in black shales?: <source>Journal of Sedimentary Research</source>, v. <volume>66</volume>, p. <fpage>175</fpage>&#x2013;183.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib71">
+<mixed-citation>
+Schieber, J., <year>1998</year>, Developing a sequence stratigraphic framework for the Late Devonian Chattanooga Shale of the southeastern U.S.A.: relevance for the Bakken Shale, <italic>in</italic> J. E. Christopher, C. F. Gilboy, D. F. Paterson, and S. L. Bend, eds., 8th International Williston Basin Symposium: Saskatchewan Geological Society Special Publication 13, p. <fpage>58</fpage>&#x2013;68.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib72">
+<mixed-citation publication-type="journal">
+Schieber, J., <year>1999</year>, Distribution and deposition of mudstone facies in the Upper Devonian Sonyea Group of New York: <source>Journal of Sedimentary Research</source>, v. <volume>69</volume>, p. <fpage>909</fpage>&#x2013;925.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib73">
+<mixed-citation publication-type="journal">
+Schieber, J., <year>2003</year>, Simple gifts and buried treasures&#x2014;Implications of finding bioturbation and erosion surfaces in black shales: <source>The Sedimentary Record</source>, v. <volume>1</volume>, no. <issue>2</issue>, p. <fpage>4</fpage>&#x2013;8.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib74">
+<mixed-citation publication-type="journal">
+Schieber, J., <year>2011a</year>, Reverse engineering mother nature&#x2014;Shale sedimentology from an experimental perspective: <source>Sedimentary Geology</source>, v. <volume>238</volume>, p. <fpage>1</fpage>&#x2013;22.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib75">
+<mixed-citation publication-type="journal">
+Schieber, J., <year>2011b</year>, Marcasite in black shales&#x2014;A mineral proxy for oxygenated bottom waters and intermittent oxidation of carbonaceous muds: <source>Journal of Sedimentary Research</source>, v. <volume>81</volume>, p. <fpage>447</fpage>&#x2013;458.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib76">
+<mixed-citation publication-type="journal">
+Schieber, J., and G. Baird, <year>2001</year>, On the origin and significance of pyrite spheres in Devonian black shales of North America: <source>Journal of Sedimentary Research</source>, v. <volume>71</volume>, p. <fpage>155</fpage>&#x2013;166.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib77">
+<mixed-citation publication-type="journal">
+Schieber, J., and L. Riciputi, <year>2004</year>, Pyrite ooids in Devonian black shales record intermittent sea-level drop and shallow-water conditions: <source>Geology</source>, v. <volume>32</volume>, p. <fpage>305</fpage>&#x2013;308.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib78">
+<mixed-citation publication-type="journal">
+Schieber, J., and J. B. Southard, <year>2009</year>, Bedload transport of mud by floccule ripples &#x2013; Direct observation of ripple migration processes and their implications: <source>Geology</source>, v. <volume>37</volume>, p. <fpage>483</fpage>&#x2013;486.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib79">
+<mixed-citation publication-type="journal">
+Schieber, J., and Z. Yawar, <year>2009</year>, A new twist on mud deposition &#x2013; Mud ripples in experiment and rock record: <source>The Sedimentary Record</source>, v. <volume>7</volume>, no. <issue>2</issue>, p. <fpage>4</fpage>&#x2013;8.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib80">
+<mixed-citation publication-type="journal">
+Schieber, J., D. Krinsley, and L. Riciputi, <year>2000</year>, Diagenetic origin of quartz silt in mudstones and implications for silica cycling: <source>Nature</source>, v. <volume>406</volume>, p. <fpage>981</fpage>&#x2013;985.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib81">
+<mixed-citation>
+Schieber, J., O. R. Lazar, and K. M. Bohacs, <year>2010a</year>, Sedimentology and stratigraphy of shales: Expressions and correlation of depositional sequences in the Devonian of Tennessee, Kentucky, and Indiana: AAPG 2010 Annual Convention, Field Guide for SEPM Field Trip 10, 172 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib82">
+<mixed-citation publication-type="journal">
+Schieber, J., J. B. Southard, and A. Schimmelmann, <year>2010b</year>, Lenticular shale fabrics resulting from intermittent erosion of water-rich muds: Interpreting the rock record in the light of recent flume experiments: <source>Journal of Sedimentary Research</source>, v. <volume>80</volume>, p.<fpage>119</fpage>&#x2013;128.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib83">
+<mixed-citation publication-type="journal">
+Schieber, J., J. B. Southard, and K. G. Thaisen, <year>2007</year>, Accretion of mudstone beds from migrating floccule ripples: <source>Science</source>, v. <volume>318</volume>, p. <fpage>1760</fpage>&#x2013;1763.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib84">
+<mixed-citation>
+Schlanger, S. O., M. A. Arthur, H. C. Jenkyns, and P. A. Scholle, <year>1987</year>, The Cenomanian&#x2013;Turonian oceanic anoxic event: I. Stratigraphy and distribution of organic carbon-rich beds and the marine delta (super 13) C excursion, <italic>in</italic> J. Brooks and A. J. Fleet, eds., Marine petroleum source rocks: Geological Society (London) Special Publication 26, p. <fpage>371</fpage>&#x2013;399.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib85">
+<mixed-citation publication-type="journal">
+Shepard, F. P., <year>1954</year>, Nomenclature based on sand-silt-clay ratios: <source>Journal Sedimentary Petrology</source>, v. <volume>24</volume>, p. <fpage>151</fpage>&#x2013;158.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib86">
+<mixed-citation>
+Shipboard Scientific Party, <year>1984</year>, Introduction and explanatory notes, <italic>in</italic> W. W. Hay, J. C. Sibuet, E. J. Barron, S. Brassell, W. E. Dean, A. Y. Hue, B. H. Keating, et al., eds., Initial Reports Deep Sea Drilling Project Leg 75, p. <fpage>3</fpage>&#x2013;25.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib87">
+<mixed-citation publication-type="journal">
+Spears, D. A., <year>1980</year>, Towards a classification of shales: <source>Geological Society of London, Journal</source>, v. <volume>137</volume>, p. <fpage>125</fpage>&#x2013;129.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib88">
+<mixed-citation publication-type="journal">
+Stow, D. A., <year>1981</year>, Fine-grained sediments: Terminology: <source>Quarterly Journal of Engineering Geology and Hydrology</source>, v. <volume>14</volume>, p. <fpage>243</fpage>&#x2013;244.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib89">
+<mixed-citation>
+Stow, D. A. V., <year>2012</year>, Sedimentary rocks in the field: A Color Guide: New York, Academic Press, 320 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib90">
+<mixed-citation>
+Stow, D. A. V., and D. J. W. Piper, <year>1984</year>, Deep-water fine grained sediments: history, methodology and terminology, <italic>in</italic> D. A. V. Stow and D. J. W. Piper, eds., Fine-grained sediments: Deep-water processes and facies: Geological Society (London) Special Publication 15, p. <fpage>3</fpage>&#x2013;16.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib91">
+<mixed-citation publication-type="journal">
+Taylor, A. M., and R. Goldring, <year>1993</year>, Description and analysis of bioturbation and ichnofabric: <source>Geological Society of London Journal</source>, v. <volume>150</volume>, p. <fpage>141</fpage>&#x2013;148.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib92">
+<mixed-citation publication-type="journal">
+Taylor, K. G., and J. H. S. Macquaker, <year>2014</year>, Diagenetic alterations in a silt- and clay-rich mudstone succession: An example from the Upper Cretaceous Mancos Shale of Utah, USA: <source>Clay Minerals</source>, v. <volume>49</volume>, p. <fpage>245</fpage>&#x2013;259.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib93">
+<mixed-citation>
+Taylor, G. H., M. Teichmuller, A. Davis, C. F. K. Diessel, R. Linke, P. Robert, D. C. Glick, et al., , <year>1998</year>, Organic petrology: Berlin, Gebr&#x00FC;der Borntraeger, 704 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib94">
+<mixed-citation publication-type="journal">
+Trefethen, J. M., <year>1950</year>, Classification of sediments: <source>American Journal of Science</source>, v. <volume>248</volume>, p. <fpage>55</fpage>&#x2013;62.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib95">
+<mixed-citation publication-type="journal">
+Trincardi, F., A. Cattaneo, A. Correggiari, and D. Ridente, <year>2004</year>, Evidence of soft sediment deformation, fluid escape, sediment failure and regional weak layers within the late Quaternary mud deposits of the Adriatic Sea: <source>Marine Geology</source>, v. <volume>213</volume>, p. <fpage>91</fpage>&#x2013;119.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib96">
+<mixed-citation publication-type="journal">
+Tourtelot, H. A., <year>1960</year>, Origin and use of the word &#x201C;shale&#x201D;: <source>American Journal of Science</source>, v. <volume>258A</volume>, p. <fpage>335</fpage>&#x2013;343.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib97">
+<mixed-citation>
+Tyson, R. V., <year>1995</year>, Sedimentary organic matter: Organic facies and palynofacies: London, Chapman and Hall, 615 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib98">
+<mixed-citation publication-type="journal">
+Tyson, R. V., R. C. L. Wilson, and C. Downie, <year>1979</year>, A stratified water column environmental model for the type Kimmeridge Clay: <source>Nature</source>, v. <volume>227</volume>, p. <fpage>377</fpage>&#x2013;380.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib99">
+<mixed-citation>
+Waples, D. W., <year>1985</year>, Geochemistry in petroleum exploration: Amsterdam, Springer Netherlands, 232 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib100">
+<mixed-citation publication-type="journal">
+Wedepohl, K. H., <year>1971</year>, Environmental influences on the chemical composition of shales and clays: <source>Physics and Chemistry of the Earth</source>, v. <volume>8</volume>, p. <fpage>307</fpage>&#x2013;333.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib101">
+<mixed-citation>
+Wever, P. De., P. Dumitrica, J. P. Caulet, C. Nigrini, and M. Caridroit, <year>2002</year>, Radiolarians in the sedimentary record, 1st ed.: Boca Raton, Florida, CRC Press, Gordon and Breach Science Publishers, 533 p.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib102">
+<mixed-citation publication-type="journal">
+Wheatcroft, R. A., and J. C. Borgeld, <year>2000</year>, Oceanic flood layers on the northern California margin: Large-scale distribution and small-scale physical properties: <source>Continental Shelf Research</source>, v. <volume>20</volume>, p. <fpage>2163</fpage>&#x2013;2190.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib103">
+<mixed-citation publication-type="journal">
+Wheatcroft, R. A., and D. E. Drake, <year>2003</year>. Post-depositional alteration and preservation of sedimentary event layers on continental margins, I. The role of episodic sedimentation: <source>Marine Geology</source>, v. <volume>199</volume>, p. <fpage>123</fpage>&#x2013;137.
+</mixed-citation>
+</ref>
+<ref id="aapg-sp2160021-bib104">
+<mixed-citation>
+Williams, L. A., <year>1982</year>, Lithology of the Monterey formation (Miocene) in the San Joaquin Valley of California, <italic>in</italic> L. A. Williams and S. A. Graham, eds., Monterey formation and associated coarse clastic rocks, Central San Joaquin basin, California: Pacific Section SEPM Publication 25, p. <fpage>17</fpage>&#x2013;36.
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>
