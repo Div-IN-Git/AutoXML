@@ -58,8 +58,9 @@ def build_output(document: Document) -> bytes:
     return result
 
 
-def export_document(document: Document) -> Path:
-    output_dir = document.path.parent / "output"
+def export_document(document: Document, output_dir: Path | None = None) -> Path:
+    """Atomically export using the source name into the requested directory."""
+    output_dir = output_dir or (document.path.parent / "output")
     output_dir.mkdir(exist_ok=True)
     destination = output_dir / document.path.name
     # Atomic replacement protects an earlier successful export if writing is

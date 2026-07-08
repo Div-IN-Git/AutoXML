@@ -22,17 +22,17 @@ class BatchParseWorker(QRunnable):
     @Slot()
     def run(self):
         documents = []
-        try:
-            total = max(1, len(self.paths))
-            for position, path in enumerate(self.paths, 1):
-                if self.cancelled: break
-                self.signals.progress.emit(int(position * 100 / total), path.name)
+        total = max(1, len(self.paths))
+        for position, path in enumerate(self.paths, 1):
+            if self.cancelled: break
+            self.signals.progress.emit(int(position * 100 / total), path.name)
+            try:
                 documents.append(self.parser(path))
-            self.signals.result.emit(documents)
-        except Exception as exc:
-            self.signals.error.emit(str(exc))
-        finally:
-            self.signals.finished.emit()
+            except Exception as exc:
+                # A single malformed document must not abort folder mode.
+                self.signals.error.emit(f"{path}: {exc}")
+        self.signals.result.emit(documents)
+        self.signals.finished.emit()
 
 
 class BatchExportWorker(QRunnable):

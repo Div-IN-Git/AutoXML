@@ -42,7 +42,8 @@ QProgressBar::chunk { background: #4C8DFF; border-radius: 6px; }
 
 class MainWindow(QMainWindow):
     def __init__(self):
-        super().__init__(); self.documents = []; self.paths = []; self.worker = None
+        super().__init__(); self.documents = []; self.paths = []; self.worker = None; self.export_after_parse = False
+        self.selected_folder = None; self.parse_errors = []
         self.pool = QThreadPool.globalInstance(); self.settings_store = QSettings("XMLTools", "Reference Tagger")
         self.setWindowTitle("XML Tagger Pro"); self.resize(1440, 900); self.setMinimumSize(1050, 680)
         self.setStyleSheet(STYLE)
@@ -55,37 +56,92 @@ class MainWindow(QMainWindow):
         self.toast = QLabel(self); self.toast.setObjectName("toast"); self.toast.hide()
         self.sidebar.document_selected.connect(self.show_document); self.preview.data_changed.connect(self.update_stats)
         self.toolbar.select_file.connect(self.select_file); self.toolbar.select_folder.connect(self.select_folder)
-        self.toolbar.refresh.connect(self.refresh); self.toolbar.process.connect(self.process)
-        # self.toolbar.export.connect(self.export); self.toolbar.settings.connect(self.show_settings); self.toolbar.about.connect(self.show_about)
+        self.toolbar.refresh.connect(self.refresh); self.toolbar.process.connect(self.process_and_save)
+        self.toolbar.settings.connect(self.show_settings); self.toolbar.about.connect(self.show_about)
 
     def select_file(self):
         initial = self.settings_store.value("lastFolder", str(Path.home()))
         filename, _ = QFileDialog.getOpenFileName(self, "Select XML", initial, "XML files (*.xml)")
         if filename:
-            self.paths = [Path(filename)]; self.settings_store.setValue("lastFolder", str(Path(filename).parent)); self.process()
+            self.selected_folder = None; self.paths = [Path(filename)]
+            self.settings_store.setValue("lastFolder", str(Path(filename).parent)); self.load_documents()
 
     def select_folder(self):
         folder = QFileDialog.getExistingDirectory(self, "Select XML folder", self.settings_store.value("lastFolder", str(Path.home())))
         if folder:
-            root = Path(folder); self.paths = sorted(p for p in root.glob("*.xml") if p.parent.name.casefold() != "output")
+            root = Path(folder).resolve(); self.selected_folder = root
+            self.paths = sorted(
+                p for p in root.rglob("*.xml")
+                if "output" not in {part.casefold() for part in p.relative_to(root).parts[:-1]}
+            )
             self.settings_store.setValue("lastFolder", folder)
             if not self.paths: self.notify("No XML files found", error=True)
-            else: self.process()
+            else: self.load_documents()
 
     def refresh(self):
-        if self.paths: self.paths = [p for p in self.paths if p.exists()]; self.process()
+        """Return the application to a completely fresh session."""
+        if self.worker and hasattr(self.worker, "cancel"):
+            self.worker.cancel()
+            # Ignore late signals from work that was active during the reset.
+            for signal in (self.worker.signals.result, self.worker.signals.error, self.worker.signals.finished):
+                try: signal.disconnect()
+                except RuntimeError: pass
+        if hasattr(self, "progress"): self.progress.close()
+        self.documents = []; self.paths = []; self.selected_folder = None
+        self.parse_errors = []; self.export_after_parse = False; self.worker = None
+        self.sidebar.search.clear(); self.sidebar.set_documents([]); self.preview.filter.setCurrentIndex(0)
+        self.preview.auto.setChecked(True); self.preview.set_document(None); self.update_stats()
+        self.toast.hide(); self.statusBar().showMessage("Ready — select an XML file or folder")
 
-    def process(self):
+    def load_documents(self, *, export_after=False):
         if not self.paths: self.notify("Select an XML file or folder first", error=True); return
+        self.export_after_parse = export_after; self.parse_errors = []
         self.progress = ProgressDialog(self); self.worker = BatchParseWorker(self.paths, parse_document)
         self.worker.signals.progress.connect(self.progress.update_progress); self.worker.signals.result.connect(self._loaded)
-        self.worker.signals.error.connect(lambda message: self.notify("XML parsing failed: " + message, True))
+        self.worker.signals.error.connect(self._record_parse_error)
         self.worker.signals.finished.connect(self.progress.accept); self.progress.rejected.connect(self.worker.cancel)
         self.pool.start(self.worker); self.progress.show(); self.statusBar().showMessage("Processing…")
 
     def _loaded(self, documents):
         self.documents = documents; self.sidebar.set_documents(documents); self.update_stats()
-        self.statusBar().showMessage(f"{len(documents)} file(s) loaded"); self.notify(f"{len(documents)} XML file(s) parsed")
+        if self.parse_errors:
+            message = f"Loaded {len(documents)} file(s); skipped {len(self.parse_errors)} malformed XML file(s)"
+            self.notify(message, error=True)
+        else:
+            self.notify(f"{len(documents)} XML file(s) parsed")
+        self.statusBar().showMessage(f"{len(documents)} file(s) loaded")
+        if self.export_after_parse:
+            self.export_after_parse = False
+            QTimer.singleShot(0, self._export_documents)
+
+    def _record_parse_error(self, message):
+        self.parse_errors.append(message)
+        self.statusBar().showMessage(f"Skipping malformed XML ({len(self.parse_errors)} so far)")
+
+    def process_and_save(self):
+        """Save reviewed parsing results when the toolbar Process is clicked."""
+        if self.documents:
+            self._export_documents()
+        elif self.paths:
+            self.load_documents(export_after=True)
+        else:
+            self.notify("Select an XML file or folder first", error=True)
+
+    def _export_documents(self):
+        if not self.documents:
+            self.notify("Nothing to process", True); return
+        output_dir = (self.selected_folder or self.documents[0].path.parent) / "output"
+        exporter = lambda document: export_document(document, output_dir)
+        self.progress = ProgressDialog(self); self.progress.setWindowTitle("Saving parsed XML")
+        self.worker = BatchExportWorker(self.documents, exporter)
+        self.worker.signals.progress.connect(self.progress.update_progress)
+        self.worker.signals.result.connect(lambda outputs: self._export_finished(outputs, output_dir))
+        self.worker.signals.error.connect(lambda message: self.notify("Processing failed: " + message, True))
+        self.worker.signals.finished.connect(self.progress.accept); self.progress.rejected.connect(self.worker.cancel)
+        self.pool.start(self.worker); self.progress.show(); self.statusBar().showMessage("Saving parsed XML…")
+
+    def _export_finished(self, outputs, output_dir):
+        self.notify(f"Saved {len(outputs)} file(s) to {output_dir}")
 
     def show_document(self, index):
         self.preview.set_document(self.documents[index] if 0 <= index < len(self.documents) else None)
@@ -98,14 +154,6 @@ class MainWindow(QMainWindow):
             "Unknown Tags": sum(i.selected_tag == "unknown" for i in items), "Corrections Made": sum(i.corrected for i in items),
         }
         self.sidebar.update_stats(values)
-
-    # def export(self):
-    #     if not self.documents: self.notify("Nothing to export", True); return
-    #     self.progress = ProgressDialog(self); self.worker = BatchExportWorker(self.documents, export_document)
-    #     self.worker.signals.progress.connect(self.progress.update_progress); self.worker.signals.result.connect(lambda outputs: self.notify(f"Output created for {len(outputs)} file(s)"))
-    #     self.worker.signals.error.connect(lambda message: self.notify("Export failed: " + message, True))
-    #     self.worker.signals.finished.connect(self.progress.accept); self.progress.rejected.connect(self.worker.cancel)
-    #     self.pool.start(self.worker); self.progress.show()
 
     def notify(self, text, error=False):
         self.toast.setText(("✕  " if error else "✓  ") + text); self.toast.adjustSize()
