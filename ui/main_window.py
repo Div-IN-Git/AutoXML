@@ -31,11 +31,9 @@ QComboBox { min-height: 18px; }
 QLineEdit:focus, QComboBox:focus { border: 1px solid #4C8DFF; }
 QComboBox QAbstractItemView { background: #172333; selection-background-color: #4C8DFF; }
 QStatusBar { background: #0D1520; border-top: 1px solid #243142; }
-#statsPanel, #previewCard, #processCard { background: #141F2D; border: 1px solid #273547; border-radius: 7px; }
+#statsPanel, #previewCard { background: #141F2D; border: 1px solid #273547; border-radius: 7px; }
 #fileTab { background:#172333; border-radius:6px; padding:10px 16px; font-weight:600; }
 #cardTitle { font-size:10px; font-weight:700; color:#B7C3D4; } #muted { color:#8492A6; }
-#successIcon { color:#42D77D; border:2px solid #42D77D; border-radius:24px; font-size:24px; min-width:48px; min-height:48px; max-width:48px; max-height:48px; }
-#primaryButton { background:#2767D7; border:1px solid #3980F5; border-radius:5px; padding:10px 20px; color:white; } #primaryButton:hover { background:#3379EB; }
 #toast { background: #172333; border: 1px solid #4C8DFF; border-radius: 8px; padding: 10px 18px; color: white; }
 QProgressBar { border: 0; border-radius: 6px; background: #192638; text-align: center; height: 14px; }
 QProgressBar::chunk { background: #4C8DFF; border-radius: 6px; }
@@ -56,7 +54,6 @@ class MainWindow(QMainWindow):
         self.setCentralWidget(central); self.setStatusBar(QStatusBar()); self.statusBar().showMessage("Ready")
         self.toast = QLabel(self); self.toast.setObjectName("toast"); self.toast.hide()
         self.sidebar.document_selected.connect(self.show_document); self.preview.data_changed.connect(self.update_stats)
-        # self.preview.process_requested.connect(self.export)
         self.toolbar.select_file.connect(self.select_file); self.toolbar.select_folder.connect(self.select_folder)
         self.toolbar.refresh.connect(self.refresh); self.toolbar.process.connect(self.process)
         # self.toolbar.export.connect(self.export); self.toolbar.settings.connect(self.show_settings); self.toolbar.about.connect(self.show_about)
@@ -97,7 +94,6 @@ class MainWindow(QMainWindow):
         items = [item for document in self.documents for item in document.items]
         values = {
             "Files Loaded": len(self.documents), "Authors Found": sum(i.selected_tag in {"given-names", "surname"} for i in items),
-            "Organizations": sum(i.selected_tag in {"organization", "institution", "department"} for i in items),
             "Collaborations": sum(i.selected_tag == "collab" for i in items),
             "Unknown Tags": sum(i.selected_tag == "unknown" for i in items), "Corrections Made": sum(i.corrected for i in items),
         }

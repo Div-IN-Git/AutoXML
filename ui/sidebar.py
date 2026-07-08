@@ -16,7 +16,7 @@ class Sidebar(QWidget):
         stats = QFrame(); stats.setObjectName("statsPanel"); stats_layout = QVBoxLayout(stats)
         stats_title = QLabel("⌁  STATS"); stats_title.setObjectName("sectionTitle"); stats_layout.addWidget(stats_title)
         self.stats = {}
-        for name in ("Files Loaded", "Authors Found", "Organizations", "Collaborations", "Unknown Tags", "Corrections Made"):
+        for name in ("Files Loaded", "Authors Found", "Collaborations", "Unknown Tags", "Corrections Made"):
             label = QLabel(); self.stats[name] = label; stats_layout.addWidget(label)
         layout.addWidget(stats, 2); self.update_stats({})
 
@@ -33,6 +33,6 @@ class Sidebar(QWidget):
         for row in range(self.list.count()): self.list.item(row).setHidden(query not in self.list.item(row).text().casefold())
 
     def update_stats(self, values):
-        colors = ("#4C8DFF", "#3FB950", "#7CC7FF", "#A875FF", "#F4B400", "#39A9FF")
+        colors = ("#4C8DFF", "#3FB950", "#A875FF", "#F4B400", "#39A9FF")
         for (name, label), color in zip(self.stats.items(), colors):
             label.setText(f"<span style='color:{color}'>▪</span>  {name}<span style='float:right'><b>{values.get(name, 0)}</b></span>")

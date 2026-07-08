@@ -8,7 +8,7 @@ class TagCombo(QComboBox):
 
     def __init__(self, item, parent=None):
         super().__init__(parent); self.item = item
-        self.setMinimumWidth(145)
+        self.setMinimumWidth(145); self.setFixedHeight(30)
         self.addItems(TAG_OPTIONS); self.setCurrentText(item.selected_tag)
         self.currentTextChanged.connect(self._changed)
 

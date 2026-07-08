@@ -19,7 +19,6 @@ def _render_items(items) -> str:
         for item in author_items:
             tag = item.selected_tag
 
-            if tag in {"organization", "department", "institution", "group"}: tag = "collab"
             text = engine.xml_text(item.text)
             parts.append((tag, f"<{tag}>{text}</{tag}>" if tag in XML_TAGS else text))
         author = ""

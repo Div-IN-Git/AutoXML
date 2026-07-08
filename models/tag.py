@@ -4,13 +4,8 @@ from __future__ import annotations
 from dataclasses import dataclass
 
 TAG_OPTIONS = (
-    "given-names", "surname", "collab", "suffix","degree"
+    "given-names", "surname", "collab", "suffix", "unknown"
 )
-
-#"organization",
-    # "department", "institution", "group", "publisher", "conference",
-    # "journal", "email", "country", "city", "state", "role",
-    # "project", "unknown",
 
 @dataclass
 class TagItem:
