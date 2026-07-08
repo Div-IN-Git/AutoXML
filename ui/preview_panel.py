@@ -1,4 +1,3 @@
-"""Review grid and IDE-style XML previews."""
 from __future__ import annotations
 
 import html
